@@ -1,2 +1,5 @@
-/utils/token.pickle
+/utils/token.json
 /utils/credentials.json
+/utils/credentials_old.json
+/utils/service_account.json
+/utils/token.pickle
